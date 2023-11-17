@@ -1,3 +1,3 @@
-import {myfun} from "@lib/lib-a";
+import {myfun} from "@lib/lib";
 
 myfun
